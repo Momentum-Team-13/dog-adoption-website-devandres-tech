@@ -1,0 +1,19 @@
+body {
+  font-family: 'Open Sans';
+}
+
+body,
+h1,
+header {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  padding-top: 2rem;
+  padding-left: 2rem;
+  padding-bottom: 2rem;
+  background-color: #004175;
+  color: #fff;
+  border-bottom: 3px solid #89deef;
+}
